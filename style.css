@@ -1,0 +1,9 @@
+.slider-img {
+  height: 450px;
+  object-fit: cover;
+}
+
+.map {
+  width: 100%;
+  min-height: 450px;
+}
